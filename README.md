@@ -78,6 +78,16 @@ Actively practicing through **CTF challenges and OSINT investigations** to stren
 
 ---
 
+## 🌟 What Makes Me Different
+
+- A defensive mindset focused on **detection, monitoring, and incident response**
+- Practical exposure through continuous **CTF and OSINT challenges**
+- Strong comfort working within **Linux-based environments**
+- Analytical perspective supported by growing knowledge in **Data Science**
+- Ability to approach security problems with both technical depth and structured reasoning
+
+---
+
 ## 📈 Goal
 
 To grow into a professional **SOC Analyst / Blue Team Specialist**, combining defensive security skills with analytical capabilities from Data Science.
